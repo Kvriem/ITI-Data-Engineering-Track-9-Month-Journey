@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="YourController">
+    <MenuBar>
+        <Menu text="File">
+            <MenuItem text="New" onAction="#handleNew" accelerator="Ctrl+N"/>
+            <MenuItem text="Open" onAction="#handleOpen" accelerator="Ctrl+O"/>
+            <MenuItem text="Save" onAction="#handleSave" accelerator="Ctrl+S"/>
+            <MenuItem text="Exit" onAction="#handleExit" accelerator="Ctrl+E"/>
+        </Menu>
+        <Menu text="Edit">
+            <MenuItem text="Cut" onAction="#handleCut"/>
+            <MenuItem text="Copy" onAction="#handleCopy"/>
+            <MenuItem text="Paste" onAction="#handlePaste"/>
+            <MenuItem text="Delete" onAction="#handleDelete"/>
+            <MenuItem text="Select All" onAction="#handleSelectAll"/>
+        </Menu>
+        <Menu text="Help">
+            <MenuItem text="About" onAction="#handleAbout"/>
+        </Menu>
+    </MenuBar>
+    <TextArea fx:id="textArea" VBox.vgrow="ALWAYS"/>
+</VBox>
