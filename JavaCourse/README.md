@@ -6,31 +6,37 @@ This folder contains all the projects and exercises completed during an intensiv
 ## Course Experience
 The course was exceptionally well-structured and engaging, providing a practical approach to learning Java. Each project reinforced key concepts through real-world applications, making the learning process both enjoyable and effective. The hands-on nature of the course allowed for immediate application of concepts, which significantly enhanced understanding and retention.
 
+
 ## Projects Included
 
 ### GUI Applications
-- **Counter-GUI-App** - Interactive counter application with Swing components
-- **Real-Time-Clock-GUI** - Live clock display with multithreading
-- **Digital-Clock-Display** - Formatted digital clock with custom styling
-- **Interactive-Line-Drawing** - Mouse-based drawing application
-- **Lamp-Graphics-Swing** - Creative graphics programming with shapes
-- **Scrolling-Banner-Animation** - Animated text with threading
+- **Counter-GUI-App** – Interactive counter application with Swing components
+- **Real-Time-Clock-GUI** – Live clock display with multithreading
+- **Digital-Clock-Display** – Formatted digital clock with custom styling
+- **Interactive-Line-Drawing** – Mouse-based drawing application
+- **Lamp-Graphics-Swing** – Creative graphics programming with shapes
+- **Scrolling-Banner-Animation** – Animated text with threading
+- **Client-Server_Chating_GUI_App** – Multi-client chat application using Java sockets and threads
+- **JavaFX_Basics** – Foundational JavaFX GUI application structure and FXML usage
+- **TextEditorGUI** – JavaFX-based text editor with file operations and system info display
 
 ### File I/O & Data Management
-- **Terminal-Data-Editor** - DataInputStream/DataOutputStream implementation
-- **Terminal-File-Editor** - FileInputStream/FileOutputStream operations
+- **Terminal-Data-Editor** – DataInputStream/DataOutputStream implementation
+- **Terminal-File-Editor** – FileInputStream/FileOutputStream operations
+- **DB-connection** – Java application for PostgreSQL database CRUD operations with JDBC
 
 ### Object-Oriented Programming
-- **Complex-Numbers-Calculator** - Mathematical operations with custom classes
-- **Shape-Geometry-System** - Abstract classes and polymorphism
-- **Student-Management-System** - Collections and data modeling
-- **Inheritance-Demo** - Parent-child class relationships
+- **Complex-Numbers-Calculator** – Mathematical operations with custom classes
+- **Shape-Geometry-System** – Abstract classes and polymorphism
+- **Student-Management-System** – Collections and data modeling
+- **Inheritance-Demo** – Parent-child class relationships
+- **Collections-Hahsmap&Treeset** – Practical use of HashMap and TreeSet collections
 
 ### Laboratory Exercises
-- **Java-Fundamentals-Lab** - Core syntax and basics
-- **Java-Lab2-Exercise** - Conditional statements and user input
-- **Java-Lab3-Exercise** - String manipulation and parsing
-- **Java-Basics-Practice** - Foundational programming concepts
+- **Java-Fundamentals-Lab** – Core syntax and basics
+- **Java-Lab2-Exercise** – Conditional statements and user input
+- **Java-Lab3-Exercise** – String manipulation and parsing
+- **Java-Basics-Practice** – Foundational programming concepts
 
 ## Key Topics Learned
 
@@ -90,3 +96,13 @@ The course's emphasis on hands-on practice and real-world applications made it n
 **Course Completion**: ITI Data Engineering Track
 **Duration**: 9-Month Journey
 **Focus**: Practical Java Programming with Real-World Applications
+
+---
+
+## Additional Projects Added
+
+- **Client-Server_Chating_GUI_App** – Multi-client chat application using Java sockets and threads
+- **Collections-Hahsmap&Treeset** – Practical use of HashMap and TreeSet collections
+- **DB-connection** – Java application for PostgreSQL database CRUD operations with JDBC
+- **JavaFX_Basics** – Foundational JavaFX GUI application structure and FXML usage
+- **TextEditorGUI** – JavaFX-based text editor with file operations and system info display
