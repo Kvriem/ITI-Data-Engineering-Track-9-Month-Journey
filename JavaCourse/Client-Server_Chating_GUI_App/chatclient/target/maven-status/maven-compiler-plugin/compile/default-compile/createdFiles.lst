@@ -1,0 +1,4 @@
+com\mycompany\chatclient\SystemInfo.class
+module-info.class
+com\mycompany\chatclient\ChatClient.class
+com\mycompany\chatclient\App.class

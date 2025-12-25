@@ -1,0 +1,4 @@
+com\mycompany\chat\App.class
+com\mycompany\chat\SystemInfo.class
+module-info.class
+com\mycompany\chat\App$ClientHandler.class
